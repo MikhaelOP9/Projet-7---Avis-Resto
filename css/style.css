@@ -1,0 +1,82 @@
+#logo{
+    margin: 12px;
+}
+
+.col-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 12px;
+}
+
+.gm-style .gm-style-iw-c {
+    background-color:gold ;
+}
+
+.gm-style .gm-style-iw-t {
+    background-color: gold;
+}
+
+#map {
+   width: 100%;
+   height: 1000px;
+   background-color: grey;
+   margin:2%;
+ }
+
+#alignement{
+    display: flex;
+    margin-top: -35px;
+}
+#app{
+    margin-left: 1%;
+    margin-right: 15%;
+    font-weight: bold;
+}
+#row{
+    padding: 45px;
+}
+
+#app1{
+    padding-top: 12px;
+}
+#app2{
+    padding-top: 12px;
+    font-weight: bold;
+}
+#app3{
+    padding-top: 12px;
+}
+#app4{
+    padding-top: 12px;
+    font-weight: bold;
+}
+#app5{
+    padding-top: 12px;
+}
+#app6{
+    padding-top: 12px;
+    font-weight: bold;
+}
+#app7{
+    padding-top: 12px;
+}
+#app8{
+    padding-top: 12px;
+    font-weight: bold;
+}
+#app9{
+    padding-top: 12px;
+}
+#align{
+    border-style: solid;
+}
+#align2{
+    border-style: solid;
+}
+#align3{
+    border-style: solid;
+}
+#align4{
+    border-style: solid;
+}
