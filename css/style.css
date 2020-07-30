@@ -1,7 +1,9 @@
 #logo{
     margin: 12px;
 }
-
+img{
+    width:330px;
+}
 .col-12 {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
@@ -11,10 +13,6 @@
 
 .gm-style .gm-style-iw-c {
     background-color:gold ;
-}
-
-.gm-style .gm-style-iw-t {
-    background-color: gold;
 }
 
 #map {
@@ -67,16 +65,4 @@
 }
 #app9{
     padding-top: 12px;
-}
-#align{
-    border-style: solid;
-}
-#align2{
-    border-style: solid;
-}
-#align3{
-    border-style: solid;
-}
-#align4{
-    border-style: solid;
 }
